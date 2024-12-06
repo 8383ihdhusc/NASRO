@@ -54,7 +54,7 @@ header img {
 .flash-sale {
     text-align: center;
     padding: 20px;
-    background-color: 329D9C;
+    background-color: #205072;
     color: #fff;
     margin: 0 0 20px 0;
 }
@@ -63,7 +63,7 @@ header img {
     display: inline-block;
     padding: 10px 20px;
     background-color: #fff;
-    color: #7EB495;
+    color: white;
     font-weight: bold;
     border: none;
     border-radius: 25px;
@@ -372,7 +372,7 @@ span {
 
 .instagram-button {
   display: inline-block;
-  background-color: var(--bigbutton-color);
+  background-color: #56C596;
   color: white;
   text-decoration: none;
   padding: 10px 20px;
@@ -382,7 +382,7 @@ span {
 }
 
 .instagram-button:hover {
-  background-color: var(--hover-color, #ff4500);
+  background-color: #329D9C;
 }
 a{
     text-decoration: underline;
