@@ -11,7 +11,7 @@
     --bigbutton-color: #7EB495;
     --price-color: black;
     --hover-color: #ff4500;
-    --border-color: #e74c3c;
+    --border-color: #329D9C;
 }
 /* Body Styling */
 body {
@@ -62,7 +62,7 @@ header img {
 .flash-sale .cta-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #fff;
+    background-color: #7BE495;
     color: white;
     font-weight: bold;
     border: none;
@@ -246,7 +246,7 @@ span {
 }
 
 .nav-links a:hover {
-  color: #ff6347;
+  color: #205072;
 }
 
 /* Search Bar */
@@ -368,6 +368,7 @@ span {
   font-size: 16px;
   line-height: 1.6;
   margin-bottom: 20px;
+  color: #666;
 }
 
 .instagram-button {
@@ -379,6 +380,7 @@ span {
   font-size: 16px;
   border-radius: 5px;
   transition: background-color 0.3s;
+  border-radius: 30px;
 }
 
 .instagram-button:hover {
