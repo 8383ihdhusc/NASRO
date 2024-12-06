@@ -218,6 +218,7 @@ span {
   padding: 10px 20px;
   position: sticky;
   top: 0;
+  padding-bottom: 17px;
   z-index: 1000;
 }
 
@@ -271,7 +272,7 @@ span {
     flex-direction: column;
     background-color: #333;
     position: absolute;
-    top: 60px;
+    top: 50px;
     right: 0;
     width: 100%;
     padding: 10px 0;
