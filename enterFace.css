@@ -15,7 +15,6 @@
 }
 /* Body Styling */
 body {
-    line-height: 1.6;
     background-color: #f9f9f9;
     color: #333;
     max-width: 950px;
@@ -47,7 +46,7 @@ header img {
 
 /* Hero Section */
 .hero-image {
-    height: 50vh;
+    height: 53vh;
     background: url('hero.jpg') center/cover no-repeat;
     position: relative;
 }
@@ -62,7 +61,6 @@ header img {
 
 .flash-sale .cta-button {
     display: inline-block;
-    margin-top: 15px;
     padding: 10px 20px;
     background-color: #fff;
     color: #ff6347;
