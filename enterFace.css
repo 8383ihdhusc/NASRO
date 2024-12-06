@@ -304,6 +304,7 @@ span {
     text-align: center;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     margin: 40px auto;
+    border: 2px solid var(--border-color, #e74c3c);
     width: 90%; /* Make it responsive */
 }
 
